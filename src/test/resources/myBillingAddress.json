@@ -1,0 +1,10 @@
+{
+  "firstname" : "Sonali",
+  "lastname" : "Abcd",
+  "country" : "India",
+  "addressLine1" : "Pune",
+  "city": "Pune",
+  "state": "Maharashtra",
+  "postalCode": "411001",
+  "email": "testemail@gmail.com"
+}
