@@ -47,6 +47,7 @@ protected WebDriver getDriver()
         setDriver(new DriverManager().initializeDriver(browser));
         System.out.println("CURRENT THREAD"+ Thread.currentThread().threadId()+","+"DRIVER = "+getDriver());
         System.out.println("hi");
+
     }
 
     @AfterMethod
